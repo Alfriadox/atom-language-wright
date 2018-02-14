@@ -7,12 +7,12 @@
     "atom": ">0.50.0 <2.0.0"
   },
   "dependencies": {},
-  "homepage": "https://github.com/Alfriadox/atom-language-wright",
+  "homepage": "https://github.com/Wright-Language-Developers/atom-language-wright",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alfriadox/atom-language-wright.git"
+    "url": "https://github.com/Wright-Language-Developers/atom-language-wright.git"
   },
   "bugs": {
-    "url": "https://github.com/Alfriadox/atom-language-wright/issues"
+    "url": "https://github.com/Wright-Language-Developers/atom-language-wright/issues"
   }
 }
